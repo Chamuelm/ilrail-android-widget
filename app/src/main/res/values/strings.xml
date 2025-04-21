@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Israel Rail Widget</string>
+    <string name="widget_description">Shows next train departure</string>
+    <string name="config_title">Configure Train Route</string>
+    <string name="from_station">From Station</string>
+    <string name="to_station">To Station</string>
+    <string name="save">Save</string>
+    <string name="loading">Loading...</string>
+    <string name="no_trains">No trains available</string>
+    <string name="next_train">Next train: %1$s</string>
+    <string name="train_time_format">%1$s - Platform %2$s</string>
+    <string name="train_time_format_full">%1$s - Platform %2$s (Full)</string>
+</resources>
